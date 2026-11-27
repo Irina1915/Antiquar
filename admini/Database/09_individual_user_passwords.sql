@@ -1,0 +1,2 @@
+-- Demo password values are intentionally omitted from this repository export.
+-- Set a new local account password before signing in; do not commit the hash or password.

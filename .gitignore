@@ -1,0 +1,22 @@
+# Build output and IDE state
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+**/.verify-bin/
+**/.verify-obj/
+**/.verify-cache/
+*.csproj.user
+*.suo
+
+# Local configuration and credentials
+.env
+.env.*
+**/local-secrets.*
+**/PostgresData/
+**/postgres.log
+ANTIQUE_SHOP_DB_PASSWORD
+
+# OS files
+Thumbs.db
+Desktop.ini

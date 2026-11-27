@@ -1,0 +1,41 @@
+Фото каталога и источники
+========================
+
+Фото 19 товаров загружены из коллекции The Metropolitan Museum of Art. Для этих объектов на страницах музея указано Public Domain; музей разрешает свободное использование изображений открытой коллекции.
+
+Файл             Товар                                      Объект музея
+catalog_003.jpg  Пейзаж «Золотая осень»                    https://www.metmuseum.org/art/collection/search/437094
+catalog_004.jpg  Карманные часы «Молния»                    https://www.metmuseum.org/art/collection/search/187193
+catalog_005.jpg  Письменный стол                            https://www.metmuseum.org/art/collection/search/3143
+catalog_006.jpg  Серебряный рубль 1898 года                 https://www.metmuseum.org/art/collection/search/248032
+catalog_007.jpg  Настольная лампа                           https://www.metmuseum.org/art/collection/search/4683
+catalog_008.jpg  Кулон с гранатом                            https://www.metmuseum.org/art/collection/search/248634
+catalog_009.jpg  Комод из ореха                             https://www.metmuseum.org/art/collection/search/2004
+catalog_010.jpg  Медная монета СССР                         https://www.metmuseum.org/art/collection/search/248033
+catalog_011.jpg  Стул с резной спинкой                      https://www.metmuseum.org/art/collection/search/1590
+Часы фарфоровые в стиле.jpg  Будильник с ключом               Уже был в папке images проекта
+catalog_013.jpg  Серебряные серьги                          https://www.metmuseum.org/art/collection/search/90231
+catalog_014.jpg  Настенные часы «Весна»                     https://www.metmuseum.org/art/collection/search/9615
+catalog_015.jpg  Натюрморт с грушами                        https://www.metmuseum.org/art/collection/search/13350
+catalog_016.jpg  Этюд «Старый сад»                          https://www.metmuseum.org/art/collection/search/437096
+Вазы.jpg         Ваза «Летний вечер»                        Уже был в папке images проекта
+catalog_018.jpg  Чайная пара с цветочным узором             https://www.metmuseum.org/art/collection/search/8299
+catalog_019.jpg  Серебряная монета 1901 года                https://www.metmuseum.org/art/collection/search/248037
+catalog_020.jpg  Зеркало в резной раме                       https://www.metmuseum.org/art/collection/search/195354
+catalog_021.jpg  Подсвечник латунный                        https://www.metmuseum.org/art/collection/search/1293
+catalog_022.jpg  Браслет в стиле ар-деко                    https://www.metmuseum.org/art/collection/search/256039
+catalog_023.jpg  Самовар с гравировкой                      https://www.metmuseum.org/art/collection/search/192017
+
+Картинки музея иллюстрируют похожие исторические предметы коллекционирования и не являются фотографиями именно тех экземпляров, которые указаны в учебном каталоге.
+
+Фото старых заявок
+==================
+
+Изображения добавлены как иллюстрации к существующим заявкам. Это не фотографии конкретных экземпляров, предложенных пользователями.
+
+Файл                                  Заявка                                      Источник и права
+request_001_moscow_postcards.jpg      Набор открыток Москвы                      https://commons.wikimedia.org/wiki/File:Krasnaya_Ploshad-19v.jpg — Public Domain
+request_002_tula_samovar.jpg          Самовар «Тула»                             https://commons.wikimedia.org/wiki/File:Tula_samovar-2.JPG — Public Domain
+request_006_table_clock.jpg           Настольные часы в корпусе из дерева         https://www.metmuseum.org/art/collection/search/203669 — Public Domain
+request_007_landscape_plate.jpg        Фарфоровая тарелка с пейзажем               https://www.metmuseum.org/art/collection/search/47424 — Public Domain
+request_008_engraved_samovar.jpg       Самовар с гравировкой                       https://commons.wikimedia.org/wiki/File:Fomin_samovar.jpg — CC BY-SA 3.0 / GFDL

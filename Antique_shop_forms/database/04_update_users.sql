@@ -1,0 +1,3 @@
+-- Personal account seed rows and password hashes are intentionally omitted from this export.
+-- The anonymized portable PostgreSQL dump is the canonical demo dataset.
+-- Set local account passwords before signing in; never commit them to Git.
